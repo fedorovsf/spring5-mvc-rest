@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class CategoryMapperImplTest {
+public class CategoryMapperTest {
 
     public static final String NAME = "Joe";
     public static final long ID = 1L;
